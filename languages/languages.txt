@@ -1,0 +1,37 @@
+JavaScript/Typescript
+Python
+Java
+C
+C++
+PHP
+C#
+Kotlin
+Swift
+Go
+Dart
+Objective C
+Ruby
+Rust
+Lua
+R
+Groovy
+MATLAB
+Visual Basic
+Fortran
+Prolog
+Perl
+Scala
+Ada
+Cobol
+Haskell
+Delphi/Pascal
+Julia
+F#
+Ocaml
+Erlang
+Clojure
+Scheme
+Lisp
+TCL
+LOLCODE
+
